@@ -1,9 +1,9 @@
-# Control ESP32 from anywhere in the World - ESP32 Control Panel - ReactJS Web App
+# Listen to ESP32 GPIOs from ANYWHERE in the World - ESP32 Control Panel - ReactJS Web App
 
 This repository has been created as a part of the YouTube video:
-[Control ESP32 from ANYWHERE in the World - Step-By-Step Tutorial](https://youtu.be/z53MkVFOnIo)
+[Listen to ESP32 GPIOs from ANYWHERE in the World [Step-By-Step Tutorial]](https://youtu.be/5Q1cyi6IJzw)
 
-This is ReactJS Application to control ESP32 from the browser through AWS API Gateway WebSockets Server.
+This is ReactJS Application to control and listen to ESP32 GPIO pins from the browser through AWS API Gateway WebSockets Server.
 
 ## Installation
 
